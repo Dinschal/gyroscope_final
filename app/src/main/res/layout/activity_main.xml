@@ -8,28 +8,28 @@
 
     <TextView
         android:id="@+id/tv_textx"
-        android:layout_width="185dp"
+        android:layout_width="291dp"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
         android:text=""
+        android:textSize="30sp"
         android:visibility="visible" />
 
     <TextView
         android:id="@+id/tv_texty"
-        android:layout_width="185dp"
+        android:layout_width="291dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20sp"
-        android:textSize="30sp"
         android:text=""
+        android:textSize="30sp"
         android:visibility="visible" />
 
     <TextView
         android:id="@+id/tv_textz"
-        android:layout_width="185dp"
+        android:layout_width="291dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20sp"
-        android:textSize="30sp"
         android:text=""
+        android:textSize="30sp"
         android:visibility="visible" />
 
 </LinearLayout>
