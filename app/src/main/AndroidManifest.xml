@@ -4,6 +4,8 @@
     android:versionCode="1"
     android:versionName="1.0">
 
+    <!-- Informiert darüber, dass App den Sensor Gyroscope benötigt und ohne nicht funktioniert
+    Wird jedoch nicht vom System überprüft sondern andere Services wie Play Store etc nutzen diese Information -->
     <uses-feature
         android:name="android.hardware.sensor.gyroscope"
         android:required="true" />
